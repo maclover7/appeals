@@ -1,0 +1,298 @@
+parcelid,propertyhousenum,propertyaddress,municode,munidesc,fairmarkettotal,lat,lon,appeal,fill,symbol,title,tooltip
+0003D00075000000,1509,MURIEL ST,117,17th Ward - PITTSBURGH,567000,40.431155844414015,-79.984767449967109,True,#fa8c00,locator, ,"<b>Address:</b> 1509 MURIEL ST
+<b>Municipality:</b> 17th Ward - PITTSBURGH
+<b>Tax value:</b> $567,000"
+0003D00150000000,1509,MURIEL ST,117,17th Ward - PITTSBURGH,614000,40.431332212985993,-79.983666898453734,True,#fa8c00,locator, ,"<b>Address:</b> 1509 MURIEL ST
+<b>Municipality:</b> 17th Ward - PITTSBURGH
+<b>Tax value:</b> $614,000"
+0003H00385000000,1509,MURIEL ST,117,17th Ward - PITTSBURGH,4719000,40.430766143769908,-79.983273144812685,True,#fa8c00,locator, ,"<b>Address:</b> 1509 MURIEL ST
+<b>Municipality:</b> 17th Ward - PITTSBURGH
+<b>Tax value:</b> $4,719,000"
+0179A00010000000,0,E WATERFRONT DR,840,Munhall  ,1515000,40.413690668212837,-79.899335508394813,True,#fa8c00,locator, ,"<b>Address:</b> 0 E WATERFRONT DR
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $1,515,000"
+0179A00020000000,0,E WATERFRONT DR,840,Munhall  ,1900,40.413284445711277,-79.898858372167567,True,#fa8c00,locator, ,"<b>Address:</b> 0 E WATERFRONT DR
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $1,900"
+0179E00150000000,800,E WATERFRONT DR,840,Munhall  ,10000000,40.411499164247147,-79.898255697899501,True,#fa8c00,locator, ,"<b>Address:</b> 800 E WATERFRONT DR
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $10,000,000"
+0179K00050000000,0,E 8TH AVE,840,Munhall  ,5500,40.407281995932067,-79.891397682077653,True,#fa8c00,locator, ,"<b>Address:</b> 0 E 8TH AVE
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $5,500"
+0179K00054000000,0,E 8TH AVE,840,Munhall  ,5900,40.407405151646387,-79.891692180053511,True,#fa8c00,locator, ,"<b>Address:</b> 0 E 8TH AVE
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $5,900"
+0179K00065000000,0,E 8TH AVE,840,Munhall  ,11200,40.407048549215794,-79.891847536697497,True,#fa8c00,locator, ,"<b>Address:</b> 0 E 8TH AVE
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $11,200"
+0179L00104000000,0,E 8TH AVE,840,Munhall  ,15100,40.407232054729064,-79.891120938322032,True,#fa8c00,locator, ,"<b>Address:</b> 0 E 8TH AVE
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $15,100"
+0179L00110000000,0,E 8TH AVE,840,Munhall  ,52600,40.406924291635157,-79.890802164846363,True,#fa8c00,locator, ,"<b>Address:</b> 0 E 8TH AVE
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $52,600"
+0179R00028000000,0,E 8TH AVE,840,Munhall  ,11800,40.406322490103932,-79.888162623745615,True,#fa8c00,locator, ,"<b>Address:</b> 0 E 8TH AVE
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $11,800"
+0179R00050000001,0, ,865,Whitaker  ,1000,40.403451290155544,-79.883832421972087,True,#fa8c00,locator, ,"<b>Address:</b> 0  
+<b>Municipality:</b> Whitaker  
+<b>Tax value:</b> $1,000"
+0179R00050000002,0,WHITAKER WAY,840,Munhall  ,52100,40.405375592978949,-79.887587083176939,True,#fa8c00,locator, ,"<b>Address:</b> 0 WHITAKER WAY
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $52,100"
+0179R00135000000,0,WHITAKER WAY,840,Munhall  ,13700,40.404931206705712,-79.888196241332793,True,#fa8c00,locator, ,"<b>Address:</b> 0 WHITAKER WAY
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $13,700"
+0180D00195000000,0,RIVERVIEW AVE,840,Munhall  ,4700,40.403365807053831,-79.884539139820802,True,#fa8c00,locator, ,"<b>Address:</b> 0 RIVERVIEW AVE
+<b>Municipality:</b> Munhall  
+<b>Tax value:</b> $4,700"
+0237A00175000000,0,RIVER RD,865,Whitaker  ,1500,40.402044182942632,-79.881094309150356,True,#fa8c00,locator, ,"<b>Address:</b> 0 RIVER RD
+<b>Municipality:</b> Whitaker  
+<b>Tax value:</b> $1,500"
+0237E00038000000,0,RIVER RD,865,Whitaker  ,3400,40.401575409771567,-79.880845723702564,True,#fa8c00,locator, ,"<b>Address:</b> 0 RIVER RD
+<b>Municipality:</b> Whitaker  
+<b>Tax value:</b> $3,400"
+0237E00110000000,0,RIVER RD,865,Whitaker  ,6500,40.401531802269176,-79.880177308047166,True,#fa8c00,locator, ,"<b>Address:</b> 0 RIVER RD
+<b>Municipality:</b> Whitaker  
+<b>Tax value:</b> $6,500"
+0237E00120000000,0,RIVER RD,865,Whitaker  ,1700,40.401358885704205,-79.879199861355275,True,#fa8c00,locator, ,"<b>Address:</b> 0 RIVER RD
+<b>Municipality:</b> Whitaker  
+<b>Tax value:</b> $1,700"
+0237M00340000000,0, ,808,Braddock  ,110000,40.396496250916854,-79.867669684248156,True,#fa8c00,locator, ,"<b>Address:</b> 0  
+<b>Municipality:</b> Braddock  
+<b>Tax value:</b> $110,000"
+0239H00050000000,0,DUQUESNE BLVD,301,1st Ward  - DUQUESNE,17100,40.383058216097005,-79.862553172004780,True,#fa8c00,locator, ,"<b>Address:</b> 0 DUQUESNE BLVD
+<b>Municipality:</b> 1st Ward  - DUQUESNE
+<b>Tax value:</b> $17,100"
+0240C00350000000,0,GRANT AVE EXT,870,West Mifflin  ,96700,40.373183517192338,-79.870603200462142,True,#fa8c00,locator, ,"<b>Address:</b> 0 GRANT AVE EXT
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $96,700"
+0240F00325000000,0,LOWER BULL RUN RD,870,West Mifflin  ,52800,40.372085344676321,-79.874902830964800,True,#fa8c00,locator, ,"<b>Address:</b> 0 LOWER BULL RUN RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $52,800"
+0240K00325000000,0,GOLFVIEW LN,870,West Mifflin  ,8100,40.368099706829341,-79.874859418087908,True,#fa8c00,locator, ,"<b>Address:</b> 0 GOLFVIEW LN
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $8,100"
+0240K00330000000,0,GOLFVIEW LN,870,West Mifflin  ,8100,40.368087565356703,-79.874627263431606,True,#fa8c00,locator, ,"<b>Address:</b> 0 GOLFVIEW LN
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $8,100"
+0240K00340000000,0,R OF W ,870,West Mifflin  ,500,40.367821176312731,-79.875292723336244,True,#fa8c00,locator, ,"<b>Address:</b> 0 R OF W 
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $500"
+0240P00175000000,0,JEFFERSON AVE,870,West Mifflin  ,300,40.366123244531416,-79.877313038362814,True,#fa8c00,locator, ,"<b>Address:</b> 0 JEFFERSON AVE
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $300"
+0241B00100000000,0,HOMESTEAD DUQUESNE RD,870,West Mifflin  ,14700,40.363261683042843,-79.878094311707329,True,#fa8c00,locator, ,"<b>Address:</b> 0 HOMESTEAD DUQUESNE RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $14,700"
+0241F00060000000,0,HOMESTEAD DUQUESNE RD,870,West Mifflin  ,28900,40.361903030823520,-79.878547981991531,True,#fa8c00,locator, ,"<b>Address:</b> 0 HOMESTEAD DUQUESNE RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $28,900"
+0241J00115000000,0,BETTIS RD,870,West Mifflin  ,16300,40.359890378974193,-79.880216415417976,True,#fa8c00,locator, ,"<b>Address:</b> 0 BETTIS RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $16,300"
+0241J00187000000,0,BETTIS RD,870,West Mifflin  ,7900,40.359613478105210,-79.880855210085400,True,#fa8c00,locator, ,"<b>Address:</b> 0 BETTIS RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $7,900"
+0241N00075000000,167,SKYLINE DR,820,Dravosburg  ,51200,40.356735425489930,-79.882716501818578,True,#fa8c00,locator, ,"<b>Address:</b> 167 SKYLINE DR
+<b>Municipality:</b> Dravosburg  
+<b>Tax value:</b> $51,200"
+0244E00065000000,0,LEBANON RD,870,West Mifflin  ,600000,40.364984763506961,-79.938178932509615,True,#fa8c00,locator, ,"<b>Address:</b> 0 LEBANON RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $600,000"
+0246M00275000000,0,WILLOCK AVE,870,West Mifflin  ,4900,40.357735861700192,-79.950387208265340,True,#fa8c00,locator, ,"<b>Address:</b> 0 WILLOCK AVE
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $4,900"
+0302K00291000000,0,BRADDOCK AVE,808,Braddock  ,1000,40.397502869797599,-79.861069506118014,True,#fa8c00,locator, ,"<b>Address:</b> 0 BRADDOCK AVE
+<b>Municipality:</b> Braddock  
+<b>Tax value:</b> $1,000"
+0302K00292000000,1206,BRADDOCK AVE,808,Braddock  ,47000,40.397444607598622,-79.860972605649735,True,#fa8c00,locator, ,"<b>Address:</b> 1206 BRADDOCK AVE
+<b>Municipality:</b> Braddock  
+<b>Tax value:</b> $47,000"
+0302K00400000000,1300,BRADDOCK AVE,843,North Braddock  ,6260540,40.394359939994267,-79.855826084950166,True,#fa8c00,locator, ,"<b>Address:</b> 1300 BRADDOCK AVE
+<b>Municipality:</b> North Braddock  
+<b>Tax value:</b> $6,260,540"
+0302N00036000001,1210,BRADDOCK AVE,808,Braddock  ,3422460,40.396088188437631,-79.862597622895251,True,#fa8c00,locator, ,"<b>Address:</b> 1210 BRADDOCK AVE
+<b>Municipality:</b> Braddock  
+<b>Tax value:</b> $3,422,460"
+0302N00390000001,0,MONONGAHELA AVE,808,Braddock  ,140000,40.394384612844874,-79.864579945311505,True,#fa8c00,locator, ,"<b>Address:</b> 0 MONONGAHELA AVE
+<b>Municipality:</b> Braddock  
+<b>Tax value:</b> $140,000"
+0302P00200000000,0,R OF W ,843,North Braddock  ,75000,40.394950637324818,-79.856936523941016,True,#fa8c00,locator, ,"<b>Address:</b> 0 R OF W 
+<b>Municipality:</b> North Braddock  
+<b>Tax value:</b> $75,000"
+0304K00400000000,920,DUQUESNE BLVD,301,1st Ward  - DUQUESNE,929900,40.376629870170348,-79.855246214776557,True,#fa8c00,locator, ,"<b>Address:</b> 920 DUQUESNE BLVD
+<b>Municipality:</b> 1st Ward  - DUQUESNE
+<b>Tax value:</b> $929,900"
+0305B00200000000,0,EDGEWOOD AVE,870,West Mifflin  ,80000,40.373639685875489,-79.863927696948849,True,#fa8c00,locator, ,"<b>Address:</b> 0 EDGEWOOD AVE
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $80,000"
+0306J00250000000,0,RIVERVIEW AVE,870,West Mifflin  ,30500,40.358503189929465,-79.863904444719083,True,#fa8c00,locator, ,"<b>Address:</b> 0 RIVERVIEW AVE
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $30,500"
+0306K00250000000,0,R OF W ,870,West Mifflin  ,14600,40.358504222919002,-79.859464900172895,True,#fa8c00,locator, ,"<b>Address:</b> 0 R OF W 
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $14,600"
+0306M00080000000,0,DUQUESNE AVE,870,West Mifflin  ,57500,40.359877629135177,-79.850059393973751,True,#fa8c00,locator, ,"<b>Address:</b> 0 DUQUESNE AVE
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $57,500"
+0309E00030000000,0,PITTSBURGH MCKEESPORT BLVD,820,Dravosburg  ,2300,40.352413799368030,-79.893610770271664,True,#fa8c00,locator, ,"<b>Address:</b> 0 PITTSBURGH MCKEESPORT BLVD
+<b>Municipality:</b> Dravosburg  
+<b>Tax value:</b> $2,300"
+0309E00060000001,0,PITTSBURGH MCKEESPORT BLVD,820,Dravosburg  ,53300,40.352657808965944,-79.894120528029902,True,#fa8c00,locator, ,"<b>Address:</b> 0 PITTSBURGH MCKEESPORT BLVD
+<b>Municipality:</b> Dravosburg  
+<b>Tax value:</b> $53,300"
+0309E00060000002,0,BETTIS RD,820,Dravosburg  ,53300,40.352657808965944,-79.894120528029902,True,#fa8c00,locator, ,"<b>Address:</b> 0 BETTIS RD
+<b>Municipality:</b> Dravosburg  
+<b>Tax value:</b> $53,300"
+0309E00115000000,0,PITTSBURGH MCKEESPORT BLVD,820,Dravosburg  ,800,40.351741307691597,-79.896786488048193,True,#fa8c00,locator, ,"<b>Address:</b> 0 PITTSBURGH MCKEESPORT BLVD
+<b>Municipality:</b> Dravosburg  
+<b>Tax value:</b> $800"
+0309M00175000000,0,MCCLURE ST,820,Dravosburg  ,500,40.348778711786700,-79.884426396355138,True,#fa8c00,locator, ,"<b>Address:</b> 0 MCCLURE ST
+<b>Municipality:</b> Dravosburg  
+<b>Tax value:</b> $500"
+0312J00050000000,555,DELWAR RD,870,West Mifflin  ,130400,40.350943648848848,-79.945140625847770,True,#fa8c00,locator, ,"<b>Address:</b> 555 DELWAR RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $130,400"
+0313C00225000000,555,DELWAR RD,870,West Mifflin  ,1117800,40.358033894060142,-79.946441276094191,True,#fa8c00,locator, ,"<b>Address:</b> 555 DELWAR RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $1,117,800"
+0376A00100000000,0,BRADDOCK AVE,822,East Pittsburgh  ,44000,40.393275756141229,-79.843779314920098,True,#fa8c00,locator, ,"<b>Address:</b> 0 BRADDOCK AVE
+<b>Municipality:</b> East Pittsburgh  
+<b>Tax value:</b> $44,000"
+0376A00375000001,1300,BRADDOCK AVE,930,North Versailles  ,950000,40.393183047117688,-79.850057732662492,True,#fa8c00,locator, ,"<b>Address:</b> 1300 BRADDOCK AVE
+<b>Municipality:</b> North Versailles  
+<b>Tax value:</b> $950,000"
+0384K00120000001,0,WASHINGTON ST,870,West Mifflin  ,557200,40.338942126219912,-79.893847696706004,True,#fa8c00,locator, ,"<b>Address:</b> 0 WASHINGTON ST
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $557,200"
+0385G00069000000,602,HELENA ST,870,West Mifflin  ,321400,40.345346856990972,-79.904657653807192,True,#fa8c00,locator, ,"<b>Address:</b> 602 HELENA ST
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $321,400"
+0385G00080000000,1263,LEBANON SCHOOL RD,870,West Mifflin  ,28700,40.342008011095729,-79.906466043400002,True,#fa8c00,locator, ,"<b>Address:</b> 1263 LEBANON SCHOOL RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $28,700"
+0385J00100000001,1301,CAMP HOLLOW RD,870,West Mifflin  ,15149800,40.333118238608890,-79.903717403958751,True,#fa8c00,locator, ,"<b>Address:</b> 1301 CAMP HOLLOW RD
+<b>Municipality:</b> West Mifflin  
+<b>Tax value:</b> $15,149,800"
+0558J00003000000,0,OLD NEW ENGLAND RD,878,Jefferson Hills,29200,40.319442616064727,-79.899162189986981,True,#fa8c00,locator, ,"<b>Address:</b> 0 OLD NEW ENGLAND RD
+<b>Municipality:</b> Jefferson Hills
+<b>Tax value:</b> $29,200"
+0558N00040000000,0,N STATE ST,201,1st Ward - CLAIRTON,280065,40.313720401416738,-79.893114603063680,True,#fa8c00,locator, ,"<b>Address:</b> 0 N STATE ST
+<b>Municipality:</b> 1st Ward - CLAIRTON
+<b>Tax value:</b> $280,065"
+0558N00042000001,0,N STATE ST,201,1st Ward - CLAIRTON,13900,40.318490792593913,-79.898904898013257,True,#fa8c00,locator, ,"<b>Address:</b> 0 N STATE ST
+<b>Municipality:</b> 1st Ward - CLAIRTON
+<b>Tax value:</b> $13,900"
+0558N00130000000,0,RAILROAD R OF W ,201,1st Ward - CLAIRTON,22000,40.315271408109822,-79.895866419498176,True,#fa8c00,locator, ,"<b>Address:</b> 0 RAILROAD R OF W 
+<b>Municipality:</b> 1st Ward - CLAIRTON
+<b>Tax value:</b> $22,000"
+0558N00250000002,11,N STATE ST,201,1st Ward - CLAIRTON,761300,40.301259882200917,-79.882984514945107,True,#fa8c00,locator, ,"<b>Address:</b> 11 N STATE ST
+<b>Municipality:</b> 1st Ward - CLAIRTON
+<b>Tax value:</b> $761,300"
+0558N00250000003,400,STATE ST,202,2nd Ward - CLAIRTON,7193310,40.298206181416589,-79.873764763080558,True,#fa8c00,locator, ,"<b>Address:</b> 400 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $7,193,310"
+0632R00096000000,0,MAIN ST,934,Penn Hills  ,400,40.493828261080303,-79.787787704339578,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAIN ST
+<b>Municipality:</b> Penn Hills  
+<b>Tax value:</b> $400"
+0637B00386000000,0,THOMPSON RUN RD,934,Penn Hills  ,1447900,40.457990863558678,-79.787428833495298,True,#fa8c00,locator, ,"<b>Address:</b> 0 THOMPSON RUN RD
+<b>Municipality:</b> Penn Hills  
+<b>Tax value:</b> $1,447,900"
+0655N00015000000,146,BELLBRIDGE RD,881,Lincoln  ,77100,40.306959870861235,-79.863535389599363,True,#fa8c00,locator, ,"<b>Address:</b> 146 BELLBRIDGE RD
+<b>Municipality:</b> Lincoln  
+<b>Tax value:</b> $77,100"
+0656N00050000000,400,STATE ST,202,2nd Ward - CLAIRTON,957055,40.308569810765043,-79.884852378683931,True,#fa8c00,locator, ,"<b>Address:</b> 400 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $957,055"
+0657A00210000000,0,N STATE ST,201,1st Ward - CLAIRTON,400,40.315764059924916,-79.896745930142004,True,#fa8c00,locator, ,"<b>Address:</b> 0 N STATE ST
+<b>Municipality:</b> 1st Ward - CLAIRTON
+<b>Tax value:</b> $400"
+0657S00020000000,0,N STATE ST,201,1st Ward - CLAIRTON,4900,40.306965552486844,-79.886029304480360,True,#fa8c00,locator, ,"<b>Address:</b> 0 N STATE ST
+<b>Municipality:</b> 1st Ward - CLAIRTON
+<b>Tax value:</b> $4,900"
+0657S00070000000,400,STATE ST,202,2nd Ward - CLAIRTON,100000,40.306566916279017,-79.882720704134300,True,#fa8c00,locator, ,"<b>Address:</b> 400 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $100,000"
+0657S00100000000,0,STATE ST,202,2nd Ward - CLAIRTON,2500,40.311150736419044,-79.886355225183337,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $2,500"
+0657S00200000000,400,STATE ST,202,2nd Ward - CLAIRTON,395205,40.309340012963673,-79.885431179026398,True,#fa8c00,locator, ,"<b>Address:</b> 400 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $395,205"
+0657S00225000000,300,N STATE ST,202,2nd Ward - CLAIRTON,100000,40.308032078233104,-79.885029992879822,True,#fa8c00,locator, ,"<b>Address:</b> 300 N STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $100,000"
+0762J00108000000,0,BELLBRIDGE RD,881,Lincoln  ,63700,40.300918175996820,-79.860985987581287,True,#fa8c00,locator, ,"<b>Address:</b> 0 BELLBRIDGE RD
+<b>Municipality:</b> Lincoln  
+<b>Tax value:</b> $63,700"
+0763B00010000000,0,N STATE ST,201,1st Ward - CLAIRTON,3050,40.305136351073884,-79.874298100591247,True,#fa8c00,locator, ,"<b>Address:</b> 0 N STATE ST
+<b>Municipality:</b> 1st Ward - CLAIRTON
+<b>Tax value:</b> $3,050"
+0763K00004000000,0,STATE ST,202,2nd Ward - CLAIRTON,300,40.301977553710032,-79.878227983431259,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $300"
+0763P00271000000,0,STATE ST,202,2nd Ward - CLAIRTON,26100,40.297848254246986,-79.874686551367631,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $26,100"
+0763P00278000000,0,MAPLE AVE,202,2nd Ward - CLAIRTON,8800,40.298393539822058,-79.875125204107462,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAPLE AVE
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $8,800"
+0763P00283000000,0,MAPLE AVE,202,2nd Ward - CLAIRTON,10500,40.298469638411298,-79.874965525513289,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAPLE AVE
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $10,500"
+0763P00286000000,0,MAPLE AVE,202,2nd Ward - CLAIRTON,12800,40.298543985152293,-79.874800355140465,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAPLE AVE
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $12,800"
+0763R00010000000,0,STATE ST,202,2nd Ward - CLAIRTON,21600,40.297409234120124,-79.874525766634378,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $21,600"
+0763R00012000000,0,STATE ST,202,2nd Ward - CLAIRTON,4400,40.297170365436443,-79.874449088064225,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $4,400"
+0763R00024000000,0,CENTER ALY,202,2nd Ward - CLAIRTON,27300,40.297264658472102,-79.873807567260485,True,#fa8c00,locator, ,"<b>Address:</b> 0 CENTER ALY
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $27,300"
+0763R00028000000,0,CENTER ALY,202,2nd Ward - CLAIRTON,9200,40.297563959066252,-79.873908946550401,True,#fa8c00,locator, ,"<b>Address:</b> 0 CENTER ALY
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $9,200"
+0763R00052000000,0,CENTER ALY,202,2nd Ward - CLAIRTON,57900,40.298119966964073,-79.874084854734647,True,#fa8c00,locator, ,"<b>Address:</b> 0 CENTER ALY
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $57,900"
+0763R00056000000,0,MAPLE AVE,202,2nd Ward - CLAIRTON,1600,40.298849496280241,-79.874116431739765,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAPLE AVE
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $1,600"
+0763R00058000000,0,MAPLE AVE,202,2nd Ward - CLAIRTON,2800,40.298811504721122,-79.874189397971037,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAPLE AVE
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $2,800"
+0763R00062000000,0,MAPLE AVE,202,2nd Ward - CLAIRTON,5500,40.298758621352974,-79.874304287616880,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAPLE AVE
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $5,500"
+0763R00068000000,0,MAPLE AVE,202,2nd Ward - CLAIRTON,4000,40.298656799479261,-79.874526187305747,True,#fa8c00,locator, ,"<b>Address:</b> 0 MAPLE AVE
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $4,000"
+0764D00003000000,0,STATE ST,202,2nd Ward - CLAIRTON,49700,40.306722780610109,-79.885621895879993,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $49,700"
+0764S00300000000,0,WABASH AVE,878,Jefferson Hills,240000,40.299011851938033,-79.889887535694712,True,#fa8c00,locator, ,"<b>Address:</b> 0 WABASH AVE
+<b>Municipality:</b> Jefferson Hills
+<b>Tax value:</b> $240,000"
+0878C00012000000,0,STATE ST,202,2nd Ward - CLAIRTON,20200,40.295012149923274,-79.874207597952221,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $20,200"
+0878C00065000000,0,STATE ST,202,2nd Ward - CLAIRTON,17800,40.297093320901446,-79.874420883645001,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $17,800"
+0878C00070000000,400,STATE ST,202,2nd Ward - CLAIRTON,67640,40.295896941571947,-79.873687431590568,True,#fa8c00,locator, ,"<b>Address:</b> 400 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $67,640"
+0878G00025000000,0,STATE ST,202,2nd Ward - CLAIRTON,1525,40.293843461105766,-79.873964496466044,True,#fa8c00,locator, ,"<b>Address:</b> 0 STATE ST
+<b>Municipality:</b> 2nd Ward - CLAIRTON
+<b>Tax value:</b> $1,525"
+1569L00088000000,0,SCOTT HAVEN RD,908,Elizabeth Twp  ,78200,40.244288576908971,-79.803265835505044,True,#fa8c00,locator, ,"<b>Address:</b> 0 SCOTT HAVEN RD
+<b>Municipality:</b> Elizabeth Twp  
+<b>Tax value:</b> $78,200"
+9910X50089000000,0,PITTSBURGH INT AIRPORT ,910,Findlay  ,2518700,40.494060369752141,-80.231749735427570,True,#fa8c00,locator, ,"<b>Address:</b> 0 PITTSBURGH INT AIRPORT 
+<b>Municipality:</b> Findlay  
+<b>Tax value:</b> $2,518,700"
