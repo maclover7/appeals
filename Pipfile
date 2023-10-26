@@ -4,8 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+bs4="*"
 geopandas = "*"
 jupyterlab = "*"
+matplotlib = "*"
 pandas = "*"
 psycopg2="*"
 sqlalchemy="*"
